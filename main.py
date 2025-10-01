@@ -7,3 +7,5 @@ elif operator=="-":
     print(x-y)
 elif operator=="*":
     print(x*y)
+elif operator=="/":
+    print(x/y)
